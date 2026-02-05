@@ -1,9 +1,9 @@
 import random
 
 #numerolukon koodi1:
-luku1 = random.randint(1,9)
-luku2 = random.randint(1,9)
-luku3 = random.randint(1,9)
+luku1 = random.randint(0,9)
+luku2 = random.randint(0,9)
+luku3 = random.randint(0,9)
 
 #numerolukon koodi2:
 luku4 = random.randint(1,6)
