@@ -1,4 +1,4 @@
-hytti = input("minkä tasoinen laivan hytti?")
+hytti = input("minkä tasoinen laivan hytti? (LUX, A, B C)")
 
 if hytti == "LUX":
     print("LUX on parvekkeellinen hytti yläkannella")

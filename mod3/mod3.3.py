@@ -1,4 +1,4 @@
-sukupuoli = input("Mikä on sinun biologinen sukupolesi? ")
+sukupuoli = input("Mikä on sinun biologinen sukupolesi?(nainen/mies) ")
 hemoglobiini = int(input("mikä on hemoglobiiniarvosi? "))
 
 if sukupuoli == "nainen":
