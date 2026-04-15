@@ -15,3 +15,4 @@ while True:
         print("Uusi nimi, lisätään listaan.")
         nimet.add(nimi)
 print("Syötetyt nimet: ", nimet)
+

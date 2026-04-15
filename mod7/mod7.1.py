@@ -26,4 +26,3 @@ elif kuukausi <= 11:
 else:
     print("Virheellinen numero!")
 
-
