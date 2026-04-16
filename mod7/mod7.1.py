@@ -1,5 +1,4 @@
 ## kysytään kuukauden numero, sen jälkeen kerrotaan mikä vuodenaika
-from selectors import SelectSelector
 
 #talvi: 12, 1, 2
 #kevät: 3, 4, 5
